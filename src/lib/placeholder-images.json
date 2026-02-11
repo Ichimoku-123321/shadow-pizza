@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "margherita",
+      "description": "Margherita pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYXJnaGVyaXRhJTIwcGl6emF8ZW58MHx8fHwxNzcwNzg4ODIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "margherita pizza"
+    },
+    {
+      "id": "pepperoni",
+      "description": "Pepperoni pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1602658014714-26b99d5a45cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXBwZXJvbmklMjBwaXp6YXxlbnwwfHx8fDE3NzA3ODg4MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pepperoni pizza"
+    },
+    {
+      "id": "veggie",
+      "description": "Veggie Supreme pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1552539618-7eec9b4d1796?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2ZWdnaWUlMjBwaXp6YXxlbnwwfHx8fDE3NzA3NjMzNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "veggie pizza"
+    },
+    {
+      "id": "meat-lovers",
+      "description": "Meat Lover's pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtZWF0JTIwcGl6emF8ZW58MHx8fHwxNzcwNzYzMzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "meat pizza"
+    },
+    {
+      "id": "coke",
+      "description": "Can of Coke",
+      "imageUrl": "https://images.unsplash.com/photo-1589423045402-6074a1bdf723?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb2NhJTIwY29sYXxlbnwwfHx8fDE3NzA3ODE3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coca cola"
+    },
+    {
+      "id": "sprite",
+      "description": "Can of Sprite",
+      "imageUrl": "https://images.unsplash.com/photo-1696739696228-eee49592ff07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzb2RhJTIwY2FufGVufDB8fHx8MTc3MDgyMDA0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soda can"
+    },
+    {
+      "id": "water",
+      "description": "Bottle of water",
+      "imageUrl": "https://images.unsplash.com/photo-1605608800690-9e496dfdac1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2F0ZXIlMjBib3R0bGV8ZW58MHx8fHwxNzcwNzI5NzEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water bottle"
+    },
+    {
+      "id": "custom-pizza",
+      "description": "Custom built pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1617735605078-8a9336be0816?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwaXp6YSUyMGluZ3JlZGllbnRzfGVufDB8fHx8MTc3MDgyNzg4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pizza ingredients"
+    }
+  ]
+}
